@@ -17,7 +17,7 @@ If you want to download the tool, you can do the following:
 
 4. Select `E_GRF.AFS` of the found AFS Archives, no idea why there are multiple, but select `E_GRF.AFS` for testing (Make sure to make a backup of the file before!)
 
-5. Select the Graffiti File you want to edit, and click import and import your image, note that only files with the correct graphics gonna work, so make sure to use 512x128 for extra large, 256x128 for large and 128x128, if the size is incorrect the tool wont accept it.
+5. Select the Graffiti File you want to edit, and click import and import your image, note: since beta 2, the tool offers a resizing option, to make the best images, make sure to use 512x128 for extra large, 256x128 for large and 128x128 for small.
 
 6. Navigate to File again, and click `Save File` (the archive does **not** get saved when you import a new image, so you have to save this way).
 
